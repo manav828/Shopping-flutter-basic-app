@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20785251493",
+    "project_id": "mahi-milk-103d9",
+    "storage_bucket": "mahi-milk-103d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20785251493:android:ab99b36e1f02e390f2b94c",
+        "android_client_info": {
+          "package_name": "com.snapsid.loginuicolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20785251493-h52aohd0j90qqg5d1gevhtdirfvtsb2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3ZURZKwp-BkEuCl7FFHICO5XO6AKr_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20785251493-h52aohd0j90qqg5d1gevhtdirfvtsb2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
